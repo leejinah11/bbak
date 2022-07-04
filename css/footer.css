@@ -1,0 +1,39 @@
+.wrap_ft {
+    width: 1200px;
+    margin: auto;
+    border: 1px solid red;
+}
+
+
+.ft p {
+    display: flex;
+    justify-content: center;
+    
+}
+.fam{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 70px;
+    margin-right: 140px;
+}
+
+
+.family_site {
+    border: 1px solid black;
+    width: 172px;
+    height: 18px;
+    padding-left: 3px;
+}
+
+.family_site span {
+    font-size: 14px;
+    color: black;
+}
+
+.family_site ul {}
+
+.family_site ul li {
+    display: none;
+}
+
+.family_site ul li a {}
